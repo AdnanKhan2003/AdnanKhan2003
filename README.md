@@ -8,7 +8,7 @@
 - A Frontend Developer
 
 - 🌱 I’m familiar with ReactJS, Redux Toolkit, Building Single-Page Applications with React Router, Tanstack/React Query, Context API, Vanilla Javascript, Git & GitHub, npm, TailwindCSS, Bootstrap, HTML, CSS, etc.
-- 
+
 - 🌱 I’m currently learning **NextJS**
 
 - 🔭 Currently working on **Food Order App** using NextJS
