@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
 <p align="left"> <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" alt="adnankhan2003" /> </p>
 
