@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/adnank2003" target="blank"><img src="https://img.shields.io/twitter/follow/adnank2003?logo=twitter&style=for-the-badge" alt="adnank2003" /></a> </p>
 
-- 🔭 I’m currently working on **Project Management Tool App**
+- A Frontend Developer
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NextJS**
 
-- 👯 I’m looking to collaborate on **Frontend Projects & Content**
+- 🔭 Currently working on **Food Order App** using NextJS
 
-- 👨‍💻 All of my projects are available at [https://adnankhan2003.github.io/Adnan-Khan/](https://adnankhan2003.github.io/Adnan-Khan/)
+- 👯 I’m looking to internship/collaborate on **Frontend Projects & Content**
+
+- 👨‍💻 All of my projects are available below this page and at [https://adnankhan2003.github.io/Adnan-Khan/](https://adnankhan2003.github.io/Adnan-Khan/)
 
 - 📫 How to reach me **adnanmkhan2003@gmail.com**
 
