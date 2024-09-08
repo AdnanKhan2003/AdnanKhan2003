@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to internship/collaborate on **Frontend Projects & Content**
 
-- 👨‍💻 All of my projects are available below this page and at [https://adnankhan2003.github.io/Adnan-Khan/](https://adnankhan2003.github.io/Adnan-Khan/)
+- 👨‍💻 All of my projects are available below this page and at [https://adnan-khan-portfolio.vercel.app/](https://adnan-khan-portfolio.vercel.app/)
 
 - 📫 How to reach me **adnanmkhan2003@gmail.com**
 
