@@ -9,7 +9,7 @@
 
 - 🌱 I’m familiar with Next.js, React.js, Redux Toolkit, Building Single-Page Applications with React Router, Tanstack/React Query, Context API, Vanilla Javascript, Git & GitHub, npm, TailwindCSS, Bootstrap, HTML, CSS, etc.
 
-- 🌱 I’m currently learning **Node.js, Express.js**
+- 🌱 I’m currently learning **Backend technologies such as Node.js, Express.js, MongoDB & SQL Databases**
 
 - 🔭 Currently working on **Food Order App** using NextJS
 
