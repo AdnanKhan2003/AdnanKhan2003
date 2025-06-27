@@ -7,13 +7,13 @@
 
 - A Full Stack JavaScript Developer
 
-- 🌱 I’m familiar with Next.js, React.js, Node.js, Express.js, MongoDB, Mongoose, GraphQL, WebSocket, Redux Toolkit, Building Single-Page Applications with React Router, Tanstack/React Query, Context API, Vanilla Javascript, Git & GitHub, npm, TailwindCSS, Bootstrap, HTML, CSS, etc.
+- 🌱 I’m familiar with Next.js, React.js, Node.js, Express.js, TypeScript, MongoDB, Mongoose, GraphQL, WebSocket, Redux Toolkit, Building Single-Page Applications with React Router, Tanstack/React Query, Context API, Vanilla Javascript, Git & GitHub, npm, TailwindCSS, Bootstrap, HTML, CSS, etc.
 
 - 🌱 I’m currently learning **Backend technologies such as Node.js, Express.js, MongoDB & SQL Databases**
 
-- 🔭 Currently working on **Food Order App** using NextJS
+- 🔭 Currently working on Full Stack Chat App using NextJS, TypeScript, and backend technologies like Node.js, Express.js, MongoDB and Mongoose
 
-- 👯 I’m looking to internship/collaborate on **Frontend Projects & Content**
+- 👯 I’m looking to internship/collaborate on **Full Stack Projects & Content**
 
 - 👨‍💻 All of my projects are available below this page and at [https://adnan-khan-portfolio.vercel.app/](https://adnan-khan-portfolio.vercel.app/)
 
