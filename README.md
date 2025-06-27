@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/adnank2003" target="blank"><img src="https://img.shields.io/twitter/follow/adnank2003?logo=twitter&style=for-the-badge" alt="adnank2003" /></a> </p>
 
-- A Frontend Developer
+- A Full Stack JavaScript Developer
 
-- 🌱 I’m familiar with Next.js, React.js, Redux Toolkit, Building Single-Page Applications with React Router, Tanstack/React Query, Context API, Vanilla Javascript, Git & GitHub, npm, TailwindCSS, Bootstrap, HTML, CSS, etc.
+- 🌱 I’m familiar with Next.js, React.js, Node.js, Express.js, MongoDB, Mongoose, GraphQL, WebSocket, Redux Toolkit, Building Single-Page Applications with React Router, Tanstack/React Query, Context API, Vanilla Javascript, Git & GitHub, npm, TailwindCSS, Bootstrap, HTML, CSS, etc.
 
 - 🌱 I’m currently learning **Backend technologies such as Node.js, Express.js, MongoDB & SQL Databases**
 
